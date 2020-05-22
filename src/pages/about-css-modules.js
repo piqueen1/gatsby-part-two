@@ -1,6 +1,8 @@
 import React from "react"
-
+import Styles from "./about-css-modules.module.css"
 import Container from "../components/container"
+
+console.log(Styles)
 
 export default function About() {
   return (
